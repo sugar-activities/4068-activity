@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-20 06:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2 /home/sugar/src/activities/colors/colors.py:335
+msgid "Colors!"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:112
+msgid "Size"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:120
+#: /home/sugar/src/activities/colors/colors.py:134
+msgid "Sensitive"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:126
+msgid "Opacity"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:291
+msgid "Working..."
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:439
+msgid "Palette"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:457
+msgid "Zoom Out"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:461
+msgid "Zoom In"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:465
+msgid "Center Image"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:470
+msgid "Fullscreen"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:479
+msgid "Copy"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:512
+msgid "Erase Image"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:544
+msgid "Start Playback"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:548
+msgid "Pause Playback"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:552
+msgid "Skip To Beginning"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:557
+msgid "Skip To End"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:604
+msgid "Paint"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:606
+msgid "Watch"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:607
+msgid "Learn"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:1603
+msgid "Click anywhere to begin painting!"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:1707
+msgid "Clear Canvas?"
+msgstr ""
+
+#: /home/sugar/src/activities/colors/colors.py:1708
+msgid "This will erase the entire image, including the history."
+msgstr ""
